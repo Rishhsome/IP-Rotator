@@ -1,4 +1,4 @@
-# # Proxy Scraper and Validator
+# Proxy Scraper and Validator
 # Overview
 This Python script allows you to scrape and validate proxy servers from free-proxy-list.net, and then use the validated proxies to automate requests to specified websites.
 # Prerequisites
